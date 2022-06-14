@@ -95,12 +95,6 @@ function App() {
 
 
     setTasks([...tasks,data])
-
-    /*const id= Math.floor(Math.random()*10000)+1
-
-    const newTask = {id,...task}
-
-    setTasks([...tasks,newTask])*/
    }
 
    //show add task
